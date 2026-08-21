@@ -44,7 +44,7 @@ Our automated workflow requires zero technical manual setup:
 ```
 
 1. **Upload Alteryx Files:** Ingest your Alteryx Workflows (`.yxmd`), Macros (`.yxmc`), or Analytic Apps (`.yxwz`).
-2. **AI Logic Extraction & Conversion:** The "Pulse" engine parses the workflow XML, maps tool configurations (Formula, Join, Summarize, Cross Tab, Transpose), and rewrites logic into Fabric-native syntax.
+2. **AI Logic Extraction & Conversion:** The "Pulse Convert" engine parses the workflow XML, maps tool configurations (Formula, Join, Summarize, Cross Tab, Transpose), and rewrites logic into Fabric-native syntax.
 3. **Deploy to Fabric:** Receive production-ready Microsoft Fabric Data Factory Pipelines, Dataflows Gen2, or Synapse PySpark Notebooks with **75% to 90% automated accuracy**, instantly ready for OneLake integration.
 
 
