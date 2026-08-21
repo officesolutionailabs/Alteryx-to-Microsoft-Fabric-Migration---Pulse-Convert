@@ -7,7 +7,7 @@
 
 > **The enterprise GenAI-powered automation engine built for Alteryx to Microsoft Fabric Migration — converting complex Alteryx workflows into Fabric Data Factory Pipelines, Dataflows Gen2, and PySpark Notebooks in minutes with 75% to 90% automated accuracy.**
 
-Developed by **Office Solution AI Labs**, **Pulse Convert** simplifies **migrating from Alteryx to Microsoft Fabric**. It eliminates hundreds of engineering hours spent manually rewriting formulas, macros, and ETL logic by systematically converting Alteryx Designer assets (`.yxmd`, `.yxmc`, `.yxwz`) into production-ready Microsoft Fabric architecture.
+Developed by **Office Solution AI Labs**, **Pulse Convert** simplifies **migrating from [Alteryx to Microsoft Fabric](https://innovationalofficesolution.com/alteryx-to-microsoft-fabric-migration/)**. It eliminates hundreds of engineering hours spent manually rewriting formulas, macros, and ETL logic by systematically converting Alteryx Designer assets (`.yxmd`, `.yxmc`, `.yxwz`) into production-ready Microsoft Fabric architecture.
 
 ---
 
